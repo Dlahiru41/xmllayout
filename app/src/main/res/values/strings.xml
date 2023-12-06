@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="home">Home</string>
+    <string name="dishes_restaurants_groceries_more"><![CDATA[Dishes,restaurants, groceries & more]]></string>
+    <string name="it_s_navratri">It’s Navratri!!!</string>
+    <string name="get_festival_ready_with_swiggy">Get festival-ready with Swiggy!</string>
+    <string name="profile">Profile</string>
+    <string name="cart">Cart</string>
+    <string name="categories">Categories</string>
+    <string name="homenav">Home</string>
+</resources>
